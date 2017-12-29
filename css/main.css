@@ -26,8 +26,8 @@ h1 {
 #email-1 {
   text-align: right;
   font-family: "Linden Hill";
-  font-size: 1.5rem;
-  line-height: 2.5rem;
+  font-size: 1.3rem;
+  line-height: 2.2rem;
   margin-top: 2rem;
   color: #333;
   /* align-self: center; */
@@ -59,8 +59,8 @@ h1 {
 #middle {
   align-self: center;
   
+  }
   
-}
 #right {width: 15px;}
 
 nav ul {
