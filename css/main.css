@@ -59,7 +59,9 @@ h1 {
 #middle {
   align-self: center;
   
+  
 }
+#right {width: 15px;}
 
 nav ul {
   list-style: none;
