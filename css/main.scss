@@ -1,0 +1,25 @@
+---
+# 
+--- 
+@import '../_sass/typi/scss/_typi.scss';
+
+html{
+    font-size: 18px;
+}
+.creative-post{
+    font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+     max-width: 37rem;
+}
+
+$breakpoints: (
+  small: 600px,
+  large: 1200px
+);
+$typi: (
+  base: (
+    null: (16px, 1.4),
+    small: (18px),
+    large: (20px)
+  )
+  // Other font maps here
+);

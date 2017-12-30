@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "typi",
+        "scope": null,
+        "escapedName": "typi",
+        "name": "typi",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/brad/Documents/Github/genre2"
+    ]
+  ],
+  "_from": "typi@latest",
+  "_id": "typi@3.1.2",
+  "_inCache": true,
+  "_location": "/typi",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/typi-3.1.2.tgz_1509419039135_0.7932168841362"
+  },
+  "_npmUser": {
+    "name": "zellwk",
+    "email": "zellwk@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "typi",
+    "scope": null,
+    "escapedName": "typi",
+    "name": "typi",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/typi/-/typi-3.1.2.tgz",
+  "_shasum": "8933f7daf526ca3cd7b2375928c1595da0c1b3b4",
+  "_shrinkwrap": null,
+  "_spec": "typi",
+  "_where": "/home/brad/Documents/Github/genre2",
+  "author": {
+    "name": "Zell Liew",
+    "email": "zellwk@gmail.com"
+  },
+  "dependencies": {},
+  "description": "A sass mixin to make responsive typography easy",
+  "devDependencies": {
+    "cap-height": "^1.1.2",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "mocha": "^2.3.4",
+    "np": "^2.13.3",
+    "sass-true": "^2.0.3",
+    "sassdoc": "^2.1.20"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "shasum": "8933f7daf526ca3cd7b2375928c1595da0c1b3b4",
+    "tarball": "https://registry.npmjs.org/typi/-/typi-3.1.2.tgz"
+  },
+  "eyeglass": {
+    "sassDir": "scss",
+    "exports": false,
+    "name": "typi",
+    "needs": "*"
+  },
+  "gitHead": "590b309af9e44199f820c1977b0da1d8be90fa92",
+  "keywords": [
+    "eyeglass-module"
+  ],
+  "license": "MIT",
+  "main": "scss/_typi.scss",
+  "maintainers": [
+    {
+      "name": "zellwk",
+      "email": "zellwk@gmail.com"
+    }
+  ],
+  "name": "typi",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "release": "np",
+    "start": "gulp",
+    "test": "mocha test/test_sass.js"
+  },
+  "version": "3.1.2"
+}
