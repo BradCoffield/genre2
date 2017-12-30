@@ -1,0 +1,22 @@
+{
+  "name": "genre2",
+  "version": "1.0.0",
+  "description": "Website for the literary journal genre2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradCoffield/genre2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradCoffield/genre2/issues"
+  },
+  "homepage": "https://github.com/BradCoffield/genre2#readme",
+  "devDependencies": {
+    "typi": "^3.1.2"
+  }
+}
