@@ -2,24 +2,49 @@
 # 
 --- 
 @import '../_sass/typi/scss/_typi.scss';
+@import "partials/typography";
+@import 'partials/variables';
+@import 'partials/layout';
+@import "partials/base";
 
-html{
-    font-size: 18px;
-}
+ //NEED SOME PADDING ON BODY OR ARTICLE OR SOMETHING ON ALL THE BREAKPOINTS WHERE THE NAV IS UP TOP
+
 .creative-post{
     font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-     max-width: 37rem;
+     max-width: 39em;
+}
+.piece-author{
+	margin-top: -2rem;
+	padding: 0 1rem;
+margin-bottom: 3rem;
 }
 
-$breakpoints: (
-  small: 600px,
-  large: 1200px
-);
-$typi: (
-  base: (
-    null: (16px, 1.4),
-    small: (18px),
-    large: (20px)
-  )
-  // Other font maps here
-);
+footer{
+  margin-top:5em;
+}
+
+
+#wordlogo {
+  font-size: 5rem;
+  font-family: "Lora", serif;
+  margin: 20px 0;
+  text-align: center;
+}
+ 
+nav ul {
+  list-style: none;
+   display: block;
+   margin: 0 auto;
+  text-align: center;
+  padding: 0px;
+}
+
+// nav ul li {
+//   padding: .35rem 0;
+   
+// }
+#sidebar{
+  align-self: center;
+  width: 23rem;
+}
+

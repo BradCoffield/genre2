@@ -1,10 +1,10 @@
 ---
-title: red city converted
+title: The Red City
+author: Ashley Kunsa
+author-bio: This is a test author bio. Where someone says things about themselfs. And probably try to be witty and original but in so trying, because everyone so tries, aren't witty or original. But if they try to be plain or, ew, unpleasant, then that's bad too. Can't win with these.
 layout: creative-post
 ---
 
-
-The Red City
 
 _January_
 
@@ -38,19 +38,19 @@ Really, I&#39;m the one with the syringe. And we&#39;re in the bedroom, Ginger a
 
 This good? I ask. She&#39;s on her back, two pillows propping up her pelvis. Above her hangs the neon acrylic of Carson St. that Beth painted for my twenty-fifth birthday.
 
-        A little deeper, Ginger says. She shifts.
+A little deeper, Ginger says. She shifts.
 
-        I press the plastic plunger and wait, half-wondering if I&#39;m supposed to feel something, some—I don&#39;t know, connection? Nothing happens, except Ginger reminds me for the fourth time to pull out slowly. When it&#39;s done, I drop the syringe in the garbage can and rinse Warren&#39;s jar out with warm water and hand soap. It takes a while for the bubbles to disappear down the drain.
+I press the plastic plunger and wait, half-wondering if I&#39;m supposed to feel something, some—I don&#39;t know, connection? Nothing happens, except Ginger reminds me for the fourth time to pull out slowly. When it&#39;s done, I drop the syringe in the garbage can and rinse Warren&#39;s jar out with warm water and hand soap. It takes a while for the bubbles to disappear down the drain.
 
 I never took him for the strawberry type, I say, coming out of the bathroom with the jar.
 
 Ginger&#39;s feet float high overhead, hands bracing her hips, like some sort of fertility yoga pose. You&#39;re supposed to hold them here for twenty minutes, she says. I saw it online, keeps the stuff from sliding out.
 
-        The clock reads 7:36. By 7:42, her legs have started to tremble, so I kneel and wrap my arms around her calves as support.
+The clock reads 7:36. By 7:42, her legs have started to tremble, so I kneel and wrap my arms around her calves as support.
 
-        The next morning before the sun&#39;s up, Ginger&#39;s out the door to the fast casual chain she manages north of the city. I drink three cups of coffee and start in on a cover letter for a job I&#39;m only half qualified for, one that pays even worse than the Pittsburgh Center for Literacy, where I&#39;ve been teaching GED classes for the past five years. Though, as of tomorrow, when the grant funding my position runs out, I guess anything pays better. After the letter, I speed through my last set of math worksheets until I get to Marilyn&#39;s, which is only three-quarters done and one-half right; she&#39;s never missed more than two on any given assignment, so I draw a dramatic red question mark at the top and circle it half a dozen times.
+The next morning before the sun&#39;s up, Ginger&#39;s out the door to the fast casual chain she manages north of the city. I drink three cups of coffee and start in on a cover letter for a job I&#39;m only half qualified for, one that pays even worse than the Pittsburgh Center for Literacy, where I&#39;ve been teaching GED classes for the past five years. Though, as of tomorrow, when the grant funding my position runs out, I guess anything pays better. After the letter, I speed through my last set of math worksheets until I get to Marilyn&#39;s, which is only three-quarters done and one-half right; she&#39;s never missed more than two on any given assignment, so I draw a dramatic red question mark at the top and circle it half a dozen times.
 
-        Around lunchtime, I knock on Warren&#39;s side door. When he answers, in his slippers, I hold up the jam jar. In case you want to take up canning, I say. He smiles sheepishly and rubs a hand over his head, shaved clean to mask the balding.
+Around lunchtime, I knock on Warren&#39;s side door. When he answers, in his slippers, I hold up the jam jar. In case you want to take up canning, I say. He smiles sheepishly and rubs a hand over his head, shaved clean to mask the balding.
 
 The kitchen&#39;s warm; a space heater churns in the corner. While Warren makes tea, I flip through colorful brochures littering the counter.
 
@@ -64,9 +64,9 @@ Any leads? He hands me a mug of Darjeeling, the milk and honey already stirred i
 
 Define _lead_, I say.
 
-        His narrow face is sympathetic. How about pictures? Get anything good lately? He glances toward a black and white photo tacked to the fridge, Beth sitting on their front stoop, sharp chin in her hand, one from years ago, back when my Canon was a permanent fixture around my neck. She taught me to knit that afternoon, and I made rudimentary scarves as holiday gifts before forgetting completely the simple choreography of needle and yarn.
+His narrow face is sympathetic. How about pictures? Get anything good lately? He glances toward a black and white photo tacked to the fridge, Beth sitting on their front stoop, sharp chin in her hand, one from years ago, back when my Canon was a permanent fixture around my neck. She taught me to knit that afternoon, and I made rudimentary scarves as holiday gifts before forgetting completely the simple choreography of needle and yarn.
 
-        I guess I just haven&#39;t been feeling it, I say.
+I guess I just haven&#39;t been feeling it, I say.
 
 The pictures on the fridge, the blankets folded on the ottoman; nothing in this house has changed since Beth collapsed in the living room and refused to wake up. Warren still fills the clay pot next to the front window with flowers, still makes her mother&#39;s paella the second Sunday of the month.
 
@@ -74,31 +74,31 @@ His cell rings, someone asking about tours in Istanbul, and I set my mug in the 
 
 It&#39;s a date, I say.
 
-        My boss tears up as she pours iced tea into Dixie cups lining a card table.
+My boss tears up as she pours iced tea into Dixie cups lining a card table.
 
-        I just want you guys to know how proud I am of you, I tell the class, who&#39;s seated before me in metal folding chairs. You&#39;re in great hands with Steve, he&#39;s been here forever, and I&#39;ve got no doubt every one of you will pass.
+I just want you guys to know how proud I am of you, I tell the class, who&#39;s seated before me in metal folding chairs. You&#39;re in great hands with Steve, he&#39;s been here forever, and I&#39;ve got no doubt every one of you will pass.
 
 Once people start chatting, I find Steve by the cookies and ask if he&#39;s heard from Marilyn. She&#39;s never missed even one class, I say. And the time she was ten minutes late, she called so they&#39;d let me know.
 
-        Steve pokes a balloon. Something probably came up, he says, grabbing three snicker doodles and eating them, literally, at once.
+Steve pokes a balloon. Something probably came up, he says, grabbing three snicker doodles and eating them, literally, at once.
 
 I just can&#39;t picture her missing today of all days, I say. You know? My last day?
 
 Still chewing, Steve shrugs and stares into his Dixie cup. Then Patrice edges up beside us with a Ziploc container of Rice Krispie Treats and makes me promise I&#39;ll come back to celebrate once they&#39;ve all taken their tests. Kristina, a dyslexic junior who dropped out last year after relentless bullying, is next; she gives me a _#1 Teacher_ mug in her school&#39;s colors. In fact, they&#39;ve all brought something—Dwayne and Liu and Stephanie, even grumpy Paul, who thrusts out a slightly creased photo of his &quot;baby,&quot; a nineteen seventy-one cherry-red Plymouth Barracuda.
 
-        Then it&#39;s Denis&#39;s turn. He stands from his chair and adjusts the faded ball cap on his head. Been fun, he says. Wish my own kids had been more like you. Maybe the grandkid&#39;ll turn out okay.
+Then it&#39;s Denis&#39;s turn. He stands from his chair and adjusts the faded ball cap on his head. Been fun, he says. Wish my own kids had been more like you. Maybe the grandkid&#39;ll turn out okay.
 
 That might be the nicest thing I&#39;ve heard all year, I say.
 
 It&#39;s only January, Denis laughs. We got something for you, me and Marilyn did. Pitched in. But I don&#39;t know where she&#39;s at.
 
-        You haven&#39;t heard from her?
+You haven&#39;t heard from her?
 
-        No, but you know Marilyn, she&#39;d be here if she could. One of the boys must be sick or something. She&#39;s fine, I&#39;m sure.
+No, but you know Marilyn, she&#39;d be here if she could. One of the boys must be sick or something. She&#39;s fine, I&#39;m sure.
 
 We&#39;re the only ones left now, and at the stairs I take a last look around—balloons floating on the chairs, streamers trailing from the drop ceiling, this claustrophobic, blue-carpeted basement where I&#39;ve spent so many hours. Denis puts a hand on my shoulder, and I flip the light switch. Yeah, I say, she&#39;s probably fine.
 
-        Sorry I&#39;m late. Had a physical, Warren says. He wipes his feet on the mat and nods in my direction. Apparently I&#39;ve got the vitals of someone fifteen years younger.
+ Sorry I&#39;m late. Had a physical, Warren says. He wipes his feet on the mat and nods in my direction. Apparently I&#39;ve got the vitals of someone fifteen years younger.
 
 I can feel Ginger&#39;s body light up across the room. She&#39;s pushing thirty-six, right on the cusp, but Warren&#39;s age has prompted no small number of internet searches. A nod from a doctor though—that&#39;s got to be at least five points for Team Baby.
 
@@ -106,11 +106,11 @@ Well? I say, when she climbs into bed two hours later. Her dark hair is damp fro
 
  Let&#39;s just hope this happens fast, she says and buries her head in my ribs.
 
-        Two and a half weeks later, the garbage fills with Tampax wrappers, and I say nothing.
+ Two and a half weeks later, the garbage fills with Tampax wrappers, and I say nothing.
 
 February
 
-        Votives flicker by the vanity mirror, on the bureau, along the windowsill. I open the bag and set the jar on the night stand, next to Ginger&#39;s iPhone, which is playing a Stan Getz album. The toilet flushes, and she steps out from the bathroom in a t-shirt and panties. I run my toes across her calf, along the delicate tangle of purple veins she hates, which have always reminded me of little streams feeding each other.
+ Votives flicker by the vanity mirror, on the bureau, along the windowsill. I open the bag and set the jar on the night stand, next to Ginger&#39;s iPhone, which is playing a Stan Getz album. The toilet flushes, and she steps out from the bathroom in a t-shirt and panties. I run my toes across her calf, along the delicate tangle of purple veins she hates, which have always reminded me of little streams feeding each other.
 
 Fast forward to the next song, Ginger says.
 
@@ -138,17 +138,17 @@ It&#39;s fine.
 
 I said I&#39;m sorry. I&#39;m not trying to argue. Really. Stress isn&#39;t good for conceiving.
 
-        The baby talk started about a month before I found out I was getting canned. I&#39;d had the job since college graduation, and though it was always a possibility, news of the grant drying up arrived like a package addressed to the old tenants.
+ The baby talk started about a month before I found out I was getting canned. I&#39;d had the job since college graduation, and though it was always a possibility, news of the grant drying up arrived like a package addressed to the old tenants.
 
 The babies were a shock, too. Suddenly, we saw them on every hip, in every lap that could accommodate thigh rolls and double chins. Or, Ginger did. Whole Foods was full of organic babies. Walnut St. brimmed with trendy babies. At Tom&#39;s Diner, hungry babies slurped their mothers&#39; soup.
 
-        I just feel like we&#39;re finally ready, Ginger said one day, sitting on a bench across from Phipps Conservatory. It was unusually warm for November and ten feet away, on another bench, a woman bobbed an infant in her lap, half-humming, half-singing in French. You know?
+ I just feel like we&#39;re finally ready, Ginger said one day, sitting on a bench across from Phipps Conservatory. It was unusually warm for November and ten feet away, on another bench, a woman bobbed an infant in her lap, half-humming, half-singing in French. You know?
 
-        I didn&#39;t know, not really. I hadn&#39;t realized we&#39;d been inhabiting some kind of not-ready state. I tried to imagine us—the us-before-how-we-were-right-at-that-moment, there under a stretch of bare maples—floating in an un-ready limbo, going about our lives two or three inches off the ground, not ready for dinners with her district manager and parking tickets and sleeping late on Sundays.
+ I didn&#39;t know, not really. I hadn&#39;t realized we&#39;d been inhabiting some kind of not-ready state. I tried to imagine us—the us-before-how-we-were-right-at-that-moment, there under a stretch of bare maples—floating in an un-ready limbo, going about our lives two or three inches off the ground, not ready for dinners with her district manager and parking tickets and sleeping late on Sundays.
 
-        Don&#39;t you just feel like we&#39;re in the right place for this? she said.
+ Don&#39;t you just feel like we&#39;re in the right place for this? she said.
 
-        My eyes followed a man at the top of Flagstaff Hill, trying to fly a Pennsylvania state flag kite with his daughter. There wasn&#39;t even enough wind to make the dead leaves blow.
+ My eyes followed a man at the top of Flagstaff Hill, trying to fly a Pennsylvania state flag kite with his daughter. There wasn&#39;t even enough wind to make the dead leaves blow.
 
 Gab, you hear me?
 
@@ -176,27 +176,27 @@ Outside, a woman&#39;s pacing the bottom step, hands shoved in the pockets of an
 
 Marilyn? I say.
 
-        She looks up, brushes permed bangs from her face. Hey, hi, she says. Oh am I glad to see you. She takes the steps two at a time and wraps her arms around me without hesitating.
+ She looks up, brushes permed bangs from her face. Hey, hi, she says. Oh am I glad to see you. She takes the steps two at a time and wraps her arms around me without hesitating.
 
 You okay?
 
 Know how sometimes you got to clear your head? Marilyn says.
 
-        Well, yeah. But outside in twenty-degrees?
+ Well, yeah. But outside in twenty-degrees?
 
-        You remember Kelly?
+ You remember Kelly?
 
-        She okay?
+ She okay?
 
-        She&#39;s getting books for a world cultures project, making seventh-grade honor roll this term. How about that? Marilyn says. She lights a cigarette, then stubs it out, shoves it in the pack, bats hair from her eyes.
+ She&#39;s getting books for a world cultures project, making seventh-grade honor roll this term. How about that? Marilyn says. She lights a cigarette, then stubs it out, shoves it in the pack, bats hair from her eyes.
 
-        Great, I say, but you seem—my last day? You weren&#39;t there and now—
+ Great, I say, but you seem—my last day? You weren&#39;t there and now—
 
-        Gabby, she says. I think I&#39;m—
+ Gabby, she says. I think I&#39;m—
 
 Just then a girl in skin-tight jeans pushes through the revolving doors. She presses a grocery bag of books into Marilyn&#39;s stomach, then slings her backpack over her shoulder and flips up her hood.
 
-        Marilyn checks her watch. We got to get the boys from my sister&#39;s, she says. I just got off work, Dan&#39;s doubling.
+ Marilyn checks her watch. We got to get the boys from my sister&#39;s, she says. I just got off work, Dan&#39;s doubling.
 
 When are you taking your tests? I ask.
 
@@ -206,7 +206,7 @@ Why _supposed to_?
 
 Gabby, would it be okay for me to call you sometime?
 
-        Definitely, I say. I look from Marilyn to Kelly and back to Marilyn. Yeah, of course.
+ Definitely, I say. I look from Marilyn to Kelly and back to Marilyn. Yeah, of course.
 
 \*
 
@@ -228,13 +228,13 @@ I pick up my magazine, but after a page I look back at her. Do you know where Ma
 
  What?
 
-        Marrakesh, the city. Do you know where it is?
+ Marrakesh, the city. Do you know where it is?
 
-        Hmmmm. She yawns. Don&#39;t think so. Then she says, Tunisia? No—Morocco? Maybe? What would even make you think of that?
+ Hmmmm. She yawns. Don&#39;t think so. Then she says, Tunisia? No—Morocco? Maybe? What would even make you think of that?
 
-        Nothing, I say.
+ Nothing, I say.
 
-        Well? she says after a minute. Where is it?
+ Well? she says after a minute. Where is it?
 
 So I tell her everything I can remember from the library book: western Morocco, at the base of the Atlas Mountains, the country&#39;s fourth largest city, nearly a thousand years of history.
 
@@ -266,7 +266,7 @@ After everything with Beth though, he didn&#39;t want to be at a hospital. From 
 
 How about now?
 
-        Same, Warren says. Dripping.
+ Same, Warren says. Dripping.
 
 Do you really think this is such a good idea? I asked her. Involving him in this?
 
@@ -280,17 +280,17 @@ Maybe because his wife died a year ago? I said. And he&#39;s in pain?
 
 Everyone&#39;s in pain, all of us, Ginger said.
 
-        I scoot out from the cabinet, and Warren gives me a hand. For the first time in months, the _plop plop…plop_ has ceased. We stand there a minute, staring at the sink, waiting for something to happen. Nothing does. Warren takes the wrench and the screwdriver. I grab the dishtowel from the counter.
+ I scoot out from the cabinet, and Warren gives me a hand. For the first time in months, the _plop plop…plop_ has ceased. We stand there a minute, staring at the sink, waiting for something to happen. Nothing does. Warren takes the wrench and the screwdriver. I grab the dishtowel from the counter.
 
 You going to do it? he says, leaning in toward the faucet. Or should I?
 
-        Go wild, I say.
+ Go wild, I say.
 
-        Then he pushes the brass handle up in one swift motion, too fast for me to leap out of the way once water starts sputtering into the air.
+ Then he pushes the brass handle up in one swift motion, too fast for me to leap out of the way once water starts sputtering into the air.
 
 Ginger and I first met in this kitchen five years ago, at a fortieth birthday party, when I was twenty-two and forty was light-years away. I was photographing the party for the birthday girl&#39;s partner, who I knew from the center. I&#39;d only been working there a month and did photo gigs for extra cash whenever I could.
 
-        Actually, I met Beth first. I was switching lenses on the pub table when she offered me a crab cake. They&#39;re good, not great, she said, scrunching her nose.
+ Actually, I met Beth first. I was switching lenses on the pub table when she offered me a crab cake. They&#39;re good, not great, she said, scrunching her nose.
 
 Quite the saleswoman, I said, but I took one anyway, and while I chewed Beth leapt into the educational budget cuts, asking what I thought about the slashes to elementary art and music funding. I didn&#39;t know anything about them, but Beth was an art teacher in the city schools and more than happy to fill me in. About ten minutes later, a woman came up beside Beth in the arched doorway and kissed her on the cheek, leaving faint traces of lipstick behind. Her dark hair was an oil slick against her pale face; from her ears, mottled green leaves, jadeite maybe, fell in a series of long swoops. Earlier in the night, my friend had pointed her out as the hostess, and I thought she might ask me to get back to work, but instead she said, Hope you weren&#39;t planning on an after-party anywhere.
 
@@ -336,13 +336,13 @@ I&#39;m not hungry, I say.
 
 Marilyn lives up on the slopes, in a clapboard two-storey whose front porch is carpeted like a mini-golf course, only brown. She waves through the front window as I come up the walk. Despite an uncharacteristic week of seventy degrees, she&#39;s wearing her Angry Birds hoodie.
 
-        I&#39;ve got juice, Marilyn says. Thanks so much for coming all the way up here.
+ I&#39;ve got juice, Marilyn says. Thanks so much for coming all the way up here.
 
-        Not like I&#39;ve got a job to go to, I say. Glad you called.
+ Not like I&#39;ve got a job to go to, I say. Glad you called.
 
 Just off the hall, a gigantic fish tank glows and gurgles at chest height. Blue and orange fish dart in and out of towers; a fat yellow and black one drifts backwards from under a bridge into a tangle of plastic ferns.
 
-        Marilyn hands me a cup. This thing, she says. This is Kelly and Dan&#39;s thing. Well, more his now that she&#39;s getting older, but they started it years ago. I wish he&#39;d just get rid of it already.
+ Marilyn hands me a cup. This thing, she says. This is Kelly and Dan&#39;s thing. Well, more his now that she&#39;s getting older, but they started it years ago. I wish he&#39;d just get rid of it already.
 
  I don&#39;t know, I say. It&#39;s kind of cool?
 
@@ -352,7 +352,7 @@ Just off the hall, a gigantic fish tank glows and gurgles at chest height. Blue 
 
 Marilyn pushes her hair behind her ear. I got a one-eighty, she says quietly. She motions me into the living room.
 
-        That&#39;s college ready plus credit! Amazing!
+ That&#39;s college ready plus credit! Amazing!
 
 Across from the couch, thin frames huddle on the wall above a small flat screen: Kelly on a Big Wheel, Kelly smiling at her first communion, Kelly as a sullen pre-teen in dark lipstick; the boys as bald babies, chubby toddlers; the whole family kneeling next to a tent; a much younger Marilyn with longer, redder hair, and one, I assume, of Dan, baby-faced, probably a senior picture.
 
@@ -364,39 +364,39 @@ Yeah, but I screwed up, she says. She grabs my hand across the couch. A door ope
 
 I don&#39;t get it? I say. These scores are like twenty points away from perfect.
 
-        She glances down the hall. I&#39;m pregnant, she whispers.
+ She glances down the hall. I&#39;m pregnant, she whispers.
 
-        What? I stare at her hoodie. Are you sure? I say dumbly.
+ What? I stare at her hoodie. Are you sure? I say dumbly.
 
-        I&#39;m sure. Marilyn sighs. Unless five pregnancy tests are wrong and I&#39;m nine weeks late. Dan doesn&#39;t know, but he will soon. It just—happened? Seems impossible after almost fifteen years together for something so, so stupid. But it happened. What am I going to do?
+ I&#39;m sure. Marilyn sighs. Unless five pregnancy tests are wrong and I&#39;m nine weeks late. Dan doesn&#39;t know, but he will soon. It just—happened? Seems impossible after almost fifteen years together for something so, so stupid. But it happened. What am I going to do?
 
-        What are you going to do? I have no idea what I&#39;m saying, what she&#39;s asking.
+ What are you going to do? I have no idea what I&#39;m saying, what she&#39;s asking.
 
-        How can I have another baby? Marilyn says. She looks up at the pictures of the kids hovering on the wall across from us. The tank&#39;s filter releases a series of loud gurgles. The fish swim and swim. Down the hall, something crashes, and Marilyn stands, but nothing follows.
+ How can I have another baby? Marilyn says. She looks up at the pictures of the kids hovering on the wall across from us. The tank&#39;s filter releases a series of loud gurgles. The fish swim and swim. Down the hall, something crashes, and Marilyn stands, but nothing follows.
 
 She drops back to the couch. I&#39;m thirty-four years old, she says, looking at her hands. My life&#39;s finally starting. Marilyn shakes her head. I can&#39;t.
 
 What do you think Warren thinks about?
 
-        When?
+ When?
 
-        Before he comes over here, Ginger says. She&#39;s at the vanity, brushing her hair.
+ Before he comes over here, Ginger says. She&#39;s at the vanity, brushing her hair.
 
-        Seriously? I say. When he&#39;s masturbating to produce semen for me to inject into you? Is this the middle school locker room, the twisted version?
+ Seriously? I say. When he&#39;s masturbating to produce semen for me to inject into you? Is this the middle school locker room, the twisted version?
 
-        That&#39;s not what I mean.
+ That&#39;s not what I mean.
 
-        I go back to my library book. After a minute I look up and Ginger&#39;s watching herself in the mirror.
+ I go back to my library book. After a minute I look up and Ginger&#39;s watching herself in the mirror.
 
 Do you think—she stops.
 
-        What? What are you trying to get at?
+ What? What are you trying to get at?
 
 When she turns toward me, her eyes are suddenly fierce. Do you think he thinks about Bethy?
 
-        Oh, I say. I have to look away from her. That wouldn&#39;t have occurred to me, I say.
+ Oh, I say. I have to look away from her. That wouldn&#39;t have occurred to me, I say.
 
-        Ginger smoothes her hair away from her face and slides the drawer out from the vanity. No, she says, it wouldn&#39;t.
+ Ginger smoothes her hair away from her face and slides the drawer out from the vanity. No, she says, it wouldn&#39;t.
 
 April
 
@@ -418,19 +418,19 @@ Changing a tampon, I call. Must&#39;ve bumped it. I flush. Hang tight, I tell Ma
 
 When I open the bathroom door, Ginger&#39;s on my side of the bed with a thick book in her hands. What&#39;s this? she says.
 
-        From the library.
+ From the library.
 
  I gathered.
 
-        I don&#39;t know, I just checked it out. I haven&#39;t even really looked at it, I say. I take the hardback from Ginger&#39;s hands and shut it in my nightstand.
+ I don&#39;t know, I just checked it out. I haven&#39;t even really looked at it, I say. I take the hardback from Ginger&#39;s hands and shut it in my nightstand.
 
-        It&#39;s natural to be scared, Ginger says.
+ It&#39;s natural to be scared, Ginger says.
 
-        It&#39;s just a book, I tell her.
+ It&#39;s just a book, I tell her.
 
 Once, long before Beth died and Ginger started seeing babies and I lost my job, the four of us piled into Warren&#39;s Accord with old blankets and a cooler I&#39;d found at Goodwill and drove across the Birmingham Bridge into Oakland to watch the fireworks from Flagstaff. Teenagers lounged in each other&#39;s lanky arms while families made picnics and little kids chased each other with sparklers. The grass was high, and Warren had forgotten his allergy meds, and I put the over/under on his sneezes at 42. Beth took the over, Ginger the under, even as she groaned.
 
-        She had a new phone, I remember, and I was determined to capture the display on video. I had my legs spread to either side of her with the phone resting on her shoulder. Every other minute I was certain the finale was starting. We watched the video together once, and you can hear her, over and over again, telling me, You&#39;ll know when it&#39;s the finale, trust me, you&#39;ll know, and in the background, Warren&#39;s fevered sneezes punctuated by Beth&#39;s, _Good Lord!_ or startled chirps.
+ She had a new phone, I remember, and I was determined to capture the display on video. I had my legs spread to either side of her with the phone resting on her shoulder. Every other minute I was certain the finale was starting. We watched the video together once, and you can hear her, over and over again, telling me, You&#39;ll know when it&#39;s the finale, trust me, you&#39;ll know, and in the background, Warren&#39;s fevered sneezes punctuated by Beth&#39;s, _Good Lord!_ or startled chirps.
 
 Then sure enough, when it comes, the screen can&#39;t contain it: it&#39;s like a city on fire, red and white and purple and green, a rampage of heat and light across the desert of the night.
 
@@ -442,17 +442,17 @@ I said I&#39;d be here by one, Ginger says. She&#39;s lying on her back, trouser
 
 I was carrying thirty pounds of food four blocks. Only got two hands.
 
-        Can we just do this? She sighs. I told Marty I&#39;d be back before the dinner rush.
+ Can we just do this? She sighs. I told Marty I&#39;d be back before the dinner rush.
 
-        In the doorway I drop my groceries and kick off my flip flops. We&#39;re at this six days in a row now, to maximize her fertility window.
+ In the doorway I drop my groceries and kick off my flip flops. We&#39;re at this six days in a row now, to maximize her fertility window.
 
-        Here, she says when I reach for the jar on the nightstand, I was about to start. She&#39;s already holding a filled syringe.
+ Here, she says when I reach for the jar on the nightstand, I was about to start. She&#39;s already holding a filled syringe.
 
 I squirt, climb down, toss it in the can.
 
-        What&#39;s _your_ rush? Ginger says on my way out of the bedroom. She&#39;s got her butt against the headboard, legs up, feet flat against the wall.
+ What&#39;s _your_ rush? Ginger says on my way out of the bedroom. She&#39;s got her butt against the headboard, legs up, feet flat against the wall.
 
-        Ice cream, I say and hold a bag aloft.
+ Ice cream, I say and hold a bag aloft.
 
 \*
 
@@ -490,33 +490,33 @@ So what do you do? I find Kelly in her room, cross-legged on a zebra-print bedsp
 
 Do? Kelly angles toward the hall then back to me and shrugs. You don&#39;t _do_ anything. It&#39;s a fish.
 
-        This isn&#39;t working, Ginger says.
+ This isn&#39;t working, Ginger says.
 
-        It takes me a minute to adjust to the dim light inside the bedroom, the blinds dropped against the late afternoon, and then I see her standing at the sink, a pink-stained garment in her hands.
+ It takes me a minute to adjust to the dim light inside the bedroom, the blinds dropped against the late afternoon, and then I see her standing at the sink, a pink-stained garment in her hands.
 
-        She extends the shorts in front of her, beads of water dripping to the tile. All these months, she says, and it&#39;s not working.
+ She extends the shorts in front of her, beads of water dripping to the tile. All these months, she says, and it&#39;s not working.
 
-        It hasn&#39;t been that long—even I know this much, but I don&#39;t say it.
+ It hasn&#39;t been that long—even I know this much, but I don&#39;t say it.
 
 I feel like a factory, Ginger says. Like a defective assembly line or something.
 
-        The metaphor&#39;s off, but I just stand there, hands in my pockets.
+ The metaphor&#39;s off, but I just stand there, hands in my pockets.
 
-        I&#39;m exhausted, she says and drops the shorts into the sink.
+ I&#39;m exhausted, she says and drops the shorts into the sink.
 
-        So let&#39;s stop, I say.
+ So let&#39;s stop, I say.
 
  You don&#39;t understand, she says.
 
-        I don&#39;t understand, I say.
+ I don&#39;t understand, I say.
 
  She weeps and I hold her.
 
-        Planning a trip, love? Bunnie asks when I bring my books back.
+ Planning a trip, love? Bunnie asks when I bring my books back.
 
-        Sorry?
+ Sorry?
 
-        She points to my pile of interlibrary-loaned travel guides—Queenstown, London, Paris.
+ She points to my pile of interlibrary-loaned travel guides—Queenstown, London, Paris.
 
 Oh, no, I don&#39;t think so. Just reading.
 
@@ -524,17 +524,17 @@ Bunnie waves her wand over the spines. Ahhh, Roma, the Eternal City. Spent a wee
 
 No, I tell her, not at all, and I open the book to the twelve miles of ramparts, nearly twenty feet high, surrounding the old town, thick walls made of red clay, glowing pink in the falling sunset, a thousand-year-old relic defending the city from no one.
 
-        She takes up the final book, _112 Ways You Could Die_ Right Now _(with Illustrations)_, and flips it over, shakes her head. Poor Eddie, she says and taps the bullet-pointed list on the back cover with her wand. Aortic dissection—ripped his heart in two.
+ She takes up the final book, _112 Ways You Could Die_ Right Now _(with Illustrations)_, and flips it over, shakes her head. Poor Eddie, she says and taps the bullet-pointed list on the back cover with her wand. Aortic dissection—ripped his heart in two.
 
 _May_
 
 Ginger has lined up an interview for me with a company in the Strip District.
 
-        Wow, okay. Training employees.
+ Wow, okay. Training employees.
 
-        What? she says. You don&#39;t want the interview?
+ What? she says. You don&#39;t want the interview?
 
-        No. It&#39;s just—food service distribution? Cups and napkins.
+ No. It&#39;s just—food service distribution? Cups and napkins.
 
 I thought you&#39;d be thrilled.
 
@@ -542,13 +542,13 @@ Doesn&#39;t this sort of—but before finishing, before saying, _feel like the l
 
 There&#39;s a picture of the three of them from that Fourth of July years ago that Ginger pinned to the bulletin board in the spare room after Beth died. They&#39;re walking up ahead, Ginger in the middle with blankets under both arms, hair loose about her shoulders, Warren lugging the cooler, Beth a little off to the right, crouching in the grass, tying her sneakers, these grandmotherly Brooks she refused to give up no matter how we teased her. She&#39;s turned slightly, glancing back, her eyes falling just short of the camera, close enough that every time I look at it, I want to say, _Right here, Bethy, can you see me? I&#39;m right over here._
 
-        What is it, specifically, that you&#39;re feeling? the doctor asks. He breathes onto the stethoscope then tugs my shirt from my shorts.
+ What is it, specifically, that you&#39;re feeling? the doctor asks. He breathes onto the stethoscope then tugs my shirt from my shorts.
 
-        Nothing _specific_, I say. But a lot of vague things. Vaguely. His hand on my back is the clammy cool of a damp washcloth. Like that—hear it? Like my heart&#39;s beating too hard. Or sometimes I get this sensation, a burning, around my temples. Or the toes in my right foot, they go numb out of nowhere.
+ Nothing _specific_, I say. But a lot of vague things. Vaguely. His hand on my back is the clammy cool of a damp washcloth. Like that—hear it? Like my heart&#39;s beating too hard. Or sometimes I get this sensation, a burning, around my temples. Or the toes in my right foot, they go numb out of nowhere.
 
-        The doctor removes his glasses, squeezes the bridge of his nose. The plastic pads have dug craters into his otherwise seamless skin. You&#39;ve been on the internet, haven&#39;t you? he says.
+ The doctor removes his glasses, squeezes the bridge of his nose. The plastic pads have dug craters into his otherwise seamless skin. You&#39;ve been on the internet, haven&#39;t you? he says.
 
-        The plumber spends eleven minutes jiggling the faucet then hands me a bill for $104. I pull Ginger&#39;s checkbook from the junk drawer and scribble across the signature line. He&#39;s on his way down the front steps when the UPS woman climbs out of her truck with a package. It&#39;s a small hand-sewn leather photo album—a going-away present from Marilyn and Denis.
+ The plumber spends eleven minutes jiggling the faucet then hands me a bill for $104. I pull Ginger&#39;s checkbook from the junk drawer and scribble across the signature line. He&#39;s on his way down the front steps when the UPS woman climbs out of her truck with a package. It&#39;s a small hand-sewn leather photo album—a going-away present from Marilyn and Denis.
 
 In the first slot, Marilyn has folded a sheet of wide-ruled paper, dated last week. _Dear Gabby,_ it reads, _You don&#39;t know everything your help and support&#39;s meant to me these past months._ _Thank you__. I finished my tests--165 on language Arts, 192 Social Studies. Got an interview with the Port Authority next week, let you know how it goes. Keep in touch. Love always, Marilyn_.
 
@@ -558,11 +558,11 @@ I read the note again—_your help and support, 165, 192_—but instead of accom
 
 \*
 
-        Where do you see yourself five years from now? asks the hiring manager, and I think, _In five years, I&#39;ll be thirty-two, probably driving the same Ford, graying prematurely like my mom, drinking four cups of coffee a day instead of three._
+ Where do you see yourself five years from now? asks the hiring manager, and I think, _In five years, I&#39;ll be thirty-two, probably driving the same Ford, graying prematurely like my mom, drinking four cups of coffee a day instead of three._
 
  Gabby?
 
-        Yeah? I shift my stare from the bird poop splashed across the window pane and focus on her small, fleshy face. Oh, right, five years, I say. Huh. Maybe Africa?
+ Yeah? I shift my stare from the bird poop splashed across the window pane and focus on her small, fleshy face. Oh, right, five years, I say. Huh. Maybe Africa?
 
 It couldn&#39;t have been more than twenty degrees the night of Beth&#39;s viewing, but I stayed outside for the first hour, sitting on the curb by the side door, avoiding eye contact with the schoolchildren and parents who shuffled by every few minutes. Around eight, Ginger came out, her face a blister atop her black sweater, and I followed her back to where Beth&#39;s sisters and cousins congregated near gigantic, indiscriminate sprays of flowers. Warren was folded over on a chair at the front, worrying his bare head with one hand.
 
