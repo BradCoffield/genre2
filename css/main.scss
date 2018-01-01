@@ -10,7 +10,9 @@
  //NEED SOME PADDING ON BODY OR ARTICLE OR SOMETHING ON ALL THE BREAKPOINTS WHERE THE NAV IS UP TOP
 
 
-
+body{
+  font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
  
 .creative-post{
     font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
@@ -51,3 +53,4 @@ nav ul {
   width: 23rem;
 }
 
+#lede-1{font-size: 1.75rem;font-weight: bold;}
