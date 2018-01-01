@@ -290,10 +290,10 @@ body {
     on the right.
   ----------------------------------------------------------- */
   
-  @if $layout-reverse {
-    @media (min-width: $large-breakpoint) {
-      .container {
-        order: -1;
-      }
-    }
-  }
+  // @if $layout-reverse {
+  //   @media (min-width: $large-breakpoint) {
+  //     .container {
+  //       order: -1;
+  //     }
+  //   }
+  // }
