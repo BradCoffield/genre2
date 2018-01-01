@@ -10,7 +10,9 @@ twitter_username: genre2mag
 
 # Build settings
 markdown: kramdown
-
+sass:
+    sass_dir: _sass
+    style: compressed
 
 permalink: /:title.html
 collections:
