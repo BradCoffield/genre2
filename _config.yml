@@ -4,7 +4,7 @@ email: genre2mag@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   genre2 is a literary journal publishing writers’ best work outside their primary genre. Surprise us by surprising yourself.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.genre2.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: genre2mag
 
 
@@ -14,7 +14,7 @@ sass:
     sass_dir: _sass
     style: compressed
 
-permalink: /:title.html
+permalink: :categories/:title.html
 collections:
   issue-1:   
     output: true

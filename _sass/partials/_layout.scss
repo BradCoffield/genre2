@@ -23,12 +23,6 @@
 */
 
 body {
-    // color: rgba(255,255,255,.75);
-    // background-color: $sidebar-bg-color;
-    // background-image: linear-gradient(
-    //   to bottom,
-    //   lighten($sidebar-bg-color, 7%),
-    //   darken($sidebar-bg-color, 7%));
     display: flex;
     flex-direction: column;
     min-width: 100vw;
@@ -42,17 +36,16 @@ body {
     .site-title {
       font-family: "Abril Fatface", serif;
       font-weight: normal;
-      // font-size: $large-font-size;
       color: rgba(255,255,255,.75);
       margin-top: 0;
       margin-bottom: $heading-spacing;
   
-      a {
-        color: inherit;
-        &:hover { color: white; }
-      }
+      // a {
+      //   color: inherit;
+      //   &:hover { color: white; }
+      // }
   
-      .back-arrow { margin-right: 0.5rem; }
+     
     }
   }
   
@@ -66,13 +59,6 @@ body {
       flex-grow: 1;
     }
   }
-  
-/* THIS MIGHT  BREAK THINGS BEING COMMENTED  .content {
-    background: $body-bg;
-    color: $body-color;
-    padding: $section-spacing;
-  } */
-  
   
   /* -----------------------------------------------------------
     Mobile view
@@ -182,7 +168,7 @@ body {
   
     // Make entire container background white to contrast against sidebar
     .container {
-      background: $body-bg;
+      background: transparent;
       //color: $body-color;
       padding: 0 4rem;
       //padding: $section-spacing * 2;
@@ -201,7 +187,8 @@ body {
       }
   
       > * {
-        max-width: 38rem;
+        // max-width: 38rem;
+        max-width: 48rem;
         padding: 0;
       }
     }
@@ -213,26 +200,17 @@ body {
   ----------------------------------------------------------- */
   
   #sidebar a {
-    color: #fff;
+    color: $link-color;
   
-    svg {
-      fill: rgba(255, 255, 255, 0.85);
-    }
+     
   
     &:hover, &:focus, &.active {
       svg { fill: #fff; }
+      // text-decoration: underline;
+      // font-weight: bold;
     }
   
-    &:hover, &:focus {
-      text-decoration: underline;
-      &.icon {
-        text-decoration: none;
-      }
-    }
-  
-    &.active {
-      font-weight: bold;
-    }
+    
   }
   
   #sidebar nav {
@@ -281,19 +259,3 @@ body {
       }
     }
   }
-  
-  
-  /* -----------------------------------------------------------
-    Reverse layout
-  
-    Flip the orientation of the page by placing the `#sidebar`
-    on the right.
-  ----------------------------------------------------------- */
-  
-  // @if $layout-reverse {
-  //   @media (min-width: $large-breakpoint) {
-  //     .container {
-  //       order: -1;
-  //     }
-  //   }
-  // }

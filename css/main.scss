@@ -4,14 +4,14 @@
 @import '../_sass/typi/scss/_typi.scss';
 @import "partials/typography";
 @import 'partials/variables';
-@import 'partials/layout';
 @import "partials/base";
-
- //NEED SOME PADDING ON BODY OR ARTICLE OR SOMETHING ON ALL THE BREAKPOINTS WHERE THE NAV IS UP TOP
+@import 'partials/layout';
+@import 'partials/link-effects';
 
 
 body{
   font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+  // background: whitesmoke;
 }
  
 .creative-post{
@@ -53,4 +53,43 @@ nav ul {
   width: 23rem;
 }
 
-#lede-1{font-size: 1.75rem;font-weight: bold;}
+#lede-1{font-size: 1.5rem;font-weight: bold;}
+#lede-1__content{margin-left: 1.5rem;display: block;font-size: 1.1rem;}
+#lede-1__content-2{margin-left:1.5rem; font-size: 1.1rem;}
+
+
+#lede-3 {
+  text-align: right;
+  font-size: 1.75rem;
+  margin-top: 3rem;
+
+}
+
+#homepage-more-info{
+  text-align: right;
+}
+
+
+#homepage-content-container{
+  background: #fff;
+  padding: 0 1rem;
+  height: initial;
+  align-self: center;
+  background: transparent;
+}
+
+@media (min-width: $large-breakpoint) {
+  #homepage-content-container{
+  padding: 0 4rem;
+ }
+}
+
+#twitter-svg{
+  max-width: 16px;
+  max-height: 16px;
+  display: initial;
+  margin: 0;
+  position: relative;
+  top: 5px;
+  left: -2px;
+}
