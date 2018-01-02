@@ -6,7 +6,7 @@
 @import 'partials/variables';
 @import "partials/base";
 @import 'partials/layout';
-@import 'partials/link-effects';
+ 
 
 
 body{
@@ -70,7 +70,7 @@ nav ul {
 }
 
 
-#homepage-content-container{
+.content-container{
   background: #fff;
   padding: 0 1rem;
   height: initial;
@@ -79,7 +79,7 @@ nav ul {
 }
 
 @media (min-width: $large-breakpoint) {
-  #homepage-content-container{
+  .content-container{
   padding: 0 4rem;
  }
 }

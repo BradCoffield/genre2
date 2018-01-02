@@ -25,6 +25,7 @@ main, article, section { display: block; }
     &:hover,
     &:focus {
       // border-bottom: $link-border-bottom;
+      color: #333;
     }
   
     strong {
