@@ -82,6 +82,10 @@ nav ul {
   .content-container{
   padding: 0 4rem;
  }
+ .content-container-tall{
+   padding-top: 3rem;
+   
+ }
 }
 
 #twitter-svg{
@@ -93,3 +97,9 @@ nav ul {
   top: 5px;
   left: -2px;
 }
+
+.heading-about-name{  margin-bottom: 0;}
+#hey-i-need-some-space-down-here-before-i-get-a-proper-footer{margin-bottom: 5rem;}
+#wordlogo-a:hover, #wordlogo-a:focus {color:#111!important;}
+#temp-first-issue-content {margin-bottom: 15rem;}
+h2,h3{margin-bottom: 0px;}
