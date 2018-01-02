@@ -1,0 +1,17 @@
+{%include head.html%}
+<body>
+    <div id="home-wrap">
+        <div id="left">   
+{%include sidebar.html%}</div>
+<div id="middle-2">
+<article class="creative-post"><h1>
+    {{page.title}}
+</h1><div class="piece-author">{{page.author}}</div>{{content}} <br><hr>{{page.author-bio}}
+</article>
+</div>
+</div>
+<!-- {%include footer.html%} -->
+
+
+</body>
+</html>

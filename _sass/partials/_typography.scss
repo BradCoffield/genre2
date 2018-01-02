@@ -1,0 +1,38 @@
+
+$breakpoints: (
+    small: 600px,
+    large: 1200px
+  );
+  
+   
+  $typi: (
+    base: (
+      null: (14px, 1.3),
+      small: (16px),
+      large: (18px, 1.4)
+    ),
+    h1: (
+      null: (3.129em, 1.2),
+    large: (2.3353em, 1.3)
+    ),
+    h2: (
+      null: 2.3353em,
+      large:1.769em
+    ),
+    h3: (
+      null: 1.769em,
+      large: 1.333em
+    ),
+  );
+  
+  h1 {
+    @include typi('h1');
+  }
+  h2 {
+    @include typi('h2');
+  }
+  h3 {
+    @include typi('h3');
+  }
+  
+  @include typi-init;
