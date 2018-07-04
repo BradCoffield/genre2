@@ -1,70 +1,124 @@
----
-title: home
----
+--- 
+title: home 
+--- 
 {%include head.html%}
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>{{page.title}}</title>
     <link rel="stylesheet" href="/css/normalize.css">
-    <style>
-    
-    .site-header{background:green;position: -webkit-sticky;
 
-            position: sticky;
-            
-            top: 0;
-            
-            left: 0;
-            
-            width: 100%;
-            
-            z-index: 10;
-            padding: 50px;}
-    </style>
 </head>
+
 <body>
-    <header class="site-header">genre2</header>
-Okay, muhfucker. First thing is get a big to little stay top bar. I know what I mean.
-<p>Ut ea ullamco laboris ea non quis adipisicing et proident. Proident consequat aliqua proident id laborum sunt. Voluptate proident sint ullamco qui incididunt. Officia cillum excepteur cupidatat ut mollit laborum do. Ex sunt esse ipsum magna ex ut consectetur.
+    {% include header.html %}
+    <div id="homepage-content-wrap">
 
-        Occaecat dolor duis deserunt sit nisi. In deserunt officia irure culpa reprehenderit irure. Ipsum ad pariatur deserunt consequat excepteur velit occaecat incididunt culpa. Proident duis laboris pariatur elit consequat dolor ut enim qui aliqua duis nisi dolore. Consequat veniam dolor sunt amet anim quis sunt aute minim laborum occaecat tempor Lorem. Deserunt duis irure velit veniam deserunt sunt non anim proident in enim reprehenderit incididunt consequat.
-        
-        Velit et ipsum irure culpa adipisicing fugiat anim velit ipsum. Sit ea dolore Lorem do reprehenderit nostrud irure qui magna non cupidatat officia nisi ut. Minim ut ea consequat excepteur adipisicing reprehenderit incididunt commodo eu. Quis dolor esse qui magna non est ipsum sit velit amet.
-        
-        Anim magna eiusmod laborum laborum fugiat ipsum proident laborum sit ipsum consectetur do. Elit eiusmod ullamco ea laboris do deserunt dolor cupidatat. Nisi reprehenderit tempor ex commodo deserunt ullamco qui tempor velit commodo. Enim do ullamco aliquip consectetur adipisicing incididunt eiusmod est dolore elit deserunt. Incididunt ullamco ipsum occaecat deserunt veniam Lorem minim nostrud ex ipsum veniam. Sit dolore ea sit voluptate. Est mollit minim sunt aute consectetur qui proident duis sunt culpa nostrud elit.
-        
-        Nisi officia excepteur quis irure irure exercitation aliquip eiusmod ad. Voluptate ullamco anim sint excepteur elit sit Lorem et quis consequat ut ex. Mollit tempor ut reprehenderit ullamco sint labore proident laboris exercitation amet. Sint aute nisi et irure ex minim excepteur ipsum occaecat nulla est. Ullamco amet voluptate est enim officia ad occaecat eu consectetur. Occaecat officia exercitation ullamco proident Lorem non consequat velit tempor ex. Enim cupidatat non pariatur nostrud eiusmod sunt do sint cillum.
-        
-        Incididunt consectetur adipisicing ea elit laborum excepteur amet consectetur anim fugiat. Tempor excepteur dolor aute dolor incididunt mollit mollit deserunt voluptate dolor eiusmod. Consequat consequat eu id eiusmod aliquip est aliquip ut tempor ipsum nulla aliqua quis. Ipsum magna eu commodo ea mollit irure.
-        
-        Laborum fugiat dolore fugiat anim tempor do. Amet magna irure eu excepteur veniam velit. Mollit incididunt fugiat officia fugiat enim ex. Ea proident occaecat laboris aliquip ipsum laborum.
-        
-        Reprehenderit ullamco nulla ut nulla qui ea do. Aliqua excepteur ullamco cillum tempor labore. Anim magna amet dolor et elit proident ea veniam commodo cillum in aliquip elit cillum. Id quis fugiat ullamco consequat. Veniam ullamco mollit dolore officia.
-        
-        Aliquip elit exercitation nulla velit consequat. Occaecat nostrud deserunt proident quis adipisicing ullamco dolor enim nulla aliquip eiusmod labore. Minim veniam ipsum dolore do consectetur minim reprehenderit incididunt eiusmod.
-        
-        Ullamco aliquip fugiat dolor enim voluptate aute tempor.<p>Ut ea ullamco laboris ea non quis adipisicing et proident. Proident consequat aliqua proident id laborum sunt. Voluptate proident sint ullamco qui incididunt. Officia cillum excepteur cupidatat ut mollit laborum do. Ex sunt esse ipsum magna ex ut consectetur.
+        <section id="current-issue-section">
+            <h2 class="current-issue">current issue</h2>
+            <div class="flex-me-baby">
+                <div class="cover-image-wrap">
+                    <img src="/img/01_pattern.jpg" alt="genre2 issue 1 cover" width="350">
+                    <h3 class="cover-image-text">1</h3>
+                </div>
 
-                Occaecat dolor duis deserunt sit nisi. In deserunt officia irure culpa reprehenderit irure. Ipsum ad pariatur deserunt consequat excepteur velit occaecat incididunt culpa. Proident duis laboris pariatur elit consequat dolor ut enim qui aliqua duis nisi dolore. Consequat veniam dolor sunt amet anim quis sunt aute minim laborum occaecat tempor Lorem. Deserunt duis irure velit veniam deserunt sunt non anim proident in enim reprehenderit incididunt consequat.
-                
-                Velit et ipsum irure culpa adipisicing fugiat anim velit ipsum. Sit ea dolore Lorem do reprehenderit nostrud irure qui magna non cupidatat officia nisi ut. Minim ut ea consequat excepteur adipisicing reprehenderit incididunt commodo eu. Quis dolor esse qui magna non est ipsum sit velit amet.
-                
-                Anim magna eiusmod laborum laborum fugiat ipsum proident laborum sit ipsum consectetur do. Elit eiusmod ullamco ea laboris do deserunt dolor cupidatat. Nisi reprehenderit tempor ex commodo deserunt ullamco qui tempor velit commodo. Enim do ullamco aliquip consectetur adipisicing incididunt eiusmod est dolore elit deserunt. Incididunt ullamco ipsum occaecat deserunt veniam Lorem minim nostrud ex ipsum veniam. Sit dolore ea sit voluptate. Est mollit minim sunt aute consectetur qui proident duis sunt culpa nostrud elit.
-                
-                Nisi officia excepteur quis irure irure exercitation aliquip eiusmod ad. Voluptate ullamco anim sint excepteur elit sit Lorem et quis consequat ut ex. Mollit tempor ut reprehenderit ullamco sint labore proident laboris exercitation amet. Sint aute nisi et irure ex minim excepteur ipsum occaecat nulla est. Ullamco amet voluptate est enim officia ad occaecat eu consectetur. Occaecat officia exercitation ullamco proident Lorem non consequat velit tempor ex. Enim cupidatat non pariatur nostrud eiusmod sunt do sint cillum.
-                
-                Incididunt consectetur adipisicing ea elit laborum excepteur amet consectetur anim fugiat. Tempor excepteur dolor aute dolor incididunt mollit mollit deserunt voluptate dolor eiusmod. Consequat consequat eu id eiusmod aliquip est aliquip ut tempor ipsum nulla aliqua quis. Ipsum magna eu commodo ea mollit irure.
-                
-                Laborum fugiat dolore fugiat anim tempor do. Amet magna irure eu excepteur veniam velit. Mollit incididunt fugiat officia fugiat enim ex. Ea proident occaecat laboris aliquip ipsum laborum.
-                
-                Reprehenderit ullamco nulla ut nulla qui ea do. Aliqua excepteur ullamco cillum tempor labore. Anim magna amet dolor et elit proident ea veniam commodo cillum in aliquip elit cillum. Id quis fugiat ullamco consequat. Veniam ullamco mollit dolore officia.
-                
-                Aliquip elit exercitation nulla velit consequat. Occaecat nostrud deserunt proident quis adipisicing ullamco dolor enim nulla aliquip eiusmod labore. Minim veniam ipsum dolore do consectetur minim reprehenderit incididunt eiusmod.
-                
-                Ullamco aliquip fugiat dolor enim voluptate aute tempor. Lorem mollit consectetur pariatur nulla nostrud cupidatat laboris velit incididunt sunt. Nisi minim aliquip consequat aliqua eiusmod velit eu anim exercitation. Exercitation mollit Lorem aliquip occaecat. Sunt irure ut enim occaecat minim non cillum. Esse fugiat elit exercitation culpa.</p>
+                <div id="issue-1-contents">
+                    <ul>
+                        <li>
+                            <span class="homepage-content-author">Amanda Balter</span> /
+                            <span class="homepage-content-genre">poetry</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Ann Lightcap Bruno</span> /
+                            <span class="homepage-content-genre">poetry</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Morris Collins</span> /
+                            <span class="homepage-content-genre">poetry</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Chelsea Dingman</span> /
+                            <span class="homepage-content-genre">Essay</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Dave Housley</span> /
+                            <span class="homepage-content-genre">Poetry</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Yi Shun Lai</span> /
+                            <span class="homepage-content-genre">Visuals</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Gregory Lawless</span> /
+                            <span class="homepage-content-genre">Fiction</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Sue Lawrence</span> /
+                            <span class="homepage-content-genre">Photography</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Tony Mancus</span> /
+                            <span class="homepage-content-genre">Fiction</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Robert James Russell</span> /
+                            <span class="homepage-content-genre">Graphic Memoir</span>
+                        </li>
+                        <li>
+
+                            <span class="homepage-content-author">Paul Siegell</span> /
+                            <span class="homepage-content-genre">Fiction</span>
+                        </li>
+                        <li>
+                            <span class="homepage-content-author">Sheila Squilante</span> /
+                            <span class="homepage-content-genre">Essay</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="mission-homepage-section" class="homepage-subsection">
+            <h3>Our mission is simple: <small>We publish writers’ best work outside their primary genre. Because pushing our boundaries and moving beyond our comfort zones creates the possibility for diverse, exciting, and unexpected results.
+            </small></h3>
+            
+        </section>
+
+        <section id="featured-homepage-section" class="homepage-subsection">
+            <h3>Featured: <small>Undressing the Trees, an essay by the poet Chelsea Dingman</small> </h3>
+            <p>In this piece Dingman does a bunch of snazzy shit that will blow you're fucking mind and your regular mind. Check it out!</p>
+        </section>
+
+    </div>
+
+
+
+
+    <!--  <div class="content-wrap">
+        <div class="content">
+            <section>
+                    <h2>Our mission is simple:</h2>
+                    <p>Publish writers’ best work outside their primary genre. Because pushing our boundaries and moving beyond our comfort zones creates the possibility for diverse, exciting, and unexpected results. </p>
+            </section>
+            <section>
+            <h2>Issue 1 has arrived!</h2>
+            <p>Featuring works by Chelsea Dingman, Paul Siegell, Morris Collins, Yi Shun Liu, and many others!</p>
+            <button>GET ME SOME</button>
+        </section>
+        
+        <section>
+            <h2>Featured Work</h2>
+            <p>For our inagural featured work we've chosen to highlight "Ball Snatch" by Brad Coffield. A deliteful piece that features much vulgarity and commotion.</p>
+        </section>
+        </div>
+    </div>
+
+
+{% include footer.html %} -->
 </body>
+
 </html>

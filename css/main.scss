@@ -1,22 +1,94 @@
 --- 
 # 
----
- .site-header {
-    background: green;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 10;
-    padding: 50px;
+--- 
+// @import '../_sass/typi/scss/_typi.scss';
+@import 'partials/variables';
+@import "partials/typography";
+
+@import "partials/base";
+@import "partials/header";
+@import 'partials/layout';
+.flex-me-baby {
+    display: flex;
 }
 
-// @import '../_sass/typi/scss/_typi.scss';
-// @import "partials/typography";
-@import 'partials/variables';
-@import "partials/base";
-// @import 'partials/layout';
+p {
+    font-family: $font-lora;
+}
+
+#issue-1-contents {
+    ul {
+        list-style-type: none;
+    }
+    .homepage-content-author {
+        font-size: 1.3rem;
+        font-family: $font-display-block;
+    }
+    .homepage-content-genre {
+        font-family: $font-display-slick;
+        font-size: 1.3rem;
+    }
+}
+
+.homepage-subsection {
+    h3 {
+        font-family: $font-display-block;
+        font-size: 2rem;
+        small {
+            font-family: $font-lora;
+            font-size: 1.3rem;
+        }
+    }
+}
+
+.current-issue {
+    font-family: $font-display-slick;
+    font-size: 6rem;
+    margin-bottom: 0px;
+}
+
+.cover-image-wrap {
+    position: relative;
+}
+
+.cover-image-text {
+    position: absolute;
+    top: 0px;
+    left: 175px;
+    width: 100%; // text-align: center;
+    font-size: 7rem; // color: green;
+    font-family: $font-display-block; // color: rgba(255,255,255)
+}
+
+footer {
+    background: $fun-colors-mixed-light;
+}
+
+.content-wrap {
+    // color:$fun-colors-mixed-light;   
+    // font-family: "Fanwood",serif;
+    font-size: 1.15rem;
+    display: flex;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 959px) {
+    .content {
+        // max-width:95%;
+        // font-size:1.2rem;
+        border: none;
+        line-height: 2rem;
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    .content {
+        max-width: 960px;
+        line-height: 2.2rem
+    }
+}
+
 // body{
 //   font-family: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 //   // background: whitesmoke;

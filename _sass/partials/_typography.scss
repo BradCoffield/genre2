@@ -1,4 +1,26 @@
+@font-face {
+  font-family: 'zeichenregular';
+  src: url('/css/fonts/zeichen-webfont.woff2') format('woff2'),
+       url('/css/fonts/zeichen-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
+}
+
+@font-face {
+  font-family: 'zeichen_sansregular';
+  src: url('/css/fonts/zeichen_sans-webfont.woff2') format('woff2'),
+       url('/css/fonts/zeichen_sans-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+*::selection {
+  background: $selection-color; /* WebKit/Blink Browsers */
+}
+
+/* 
 $breakpoints: (
     small: 600px,
     large: 1200px
@@ -35,4 +57,4 @@ $breakpoints: (
     @include typi('h3');
   }
   
-  @include typi-init;
+  @include typi-init; */
