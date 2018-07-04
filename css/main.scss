@@ -7,6 +7,9 @@
 @import "partials/base";
 @import "partials/header";
 @import 'partials/layout';
+@import 'partials/posts';
+
+.italics {font-style: italic;}
 .flex-me-baby {
     display: flex;
 }
