@@ -20,6 +20,11 @@
   background: $selection-color; 
 }
 
+
+p {
+  font-family: $font-lora;
+}
+
 /* 
 $breakpoints: (
     small: 600px,

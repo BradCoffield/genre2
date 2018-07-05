@@ -5,18 +5,17 @@
 @import "partials/typography";
 
 @import "partials/base";
-@import "partials/header";
+@import "partials/header2";
 @import 'partials/layout';
 @import 'partials/posts';
 
-.italics {font-style: italic;}
+
+
 .flex-me-baby {
     display: flex;
 }
 
-p {
-    font-family: $font-lora;
-}
+button {border:0px;}
 
 #issue-1-contents {
     ul {

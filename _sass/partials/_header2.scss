@@ -1,0 +1,65 @@
+ 
+.site-header {
+    // background: $fun-color-3;
+    background: $fun-color-1;
+    // position: -webkit-sticky;
+    // position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    padding: 0px 0 0 0rem ;
+    display: flex;
+    // flex-direction: column;
+     justify-content: center; 
+     height: 110px;
+    ul {
+        list-style-type: none;
+        padding-left: 0px;
+
+ 
+        margin-top: 2rem;
+        
+        // li {
+        //     display: inline-block;
+        //     // padding: .3rem;
+        //     transition: background-color 0.9s ease;
+            
+        //                 background-color: $fun-color-2;
+        //                 button{transition: color 0.9s ease;
+        //                                 color: $fun-color-1;font-weight: bold;font-family: 'zeichen_sansregular';font-size: 1.3rem;} button:hover, button:focus {color: $fun-color-2;}
+        // } li:hover, li:focus {background-color: $fun-color-1;}
+        li {
+            display: inline-block;
+            // padding: .3rem;
+            
+            
+             
+                        button{           padding:.2rem;background-color: $fun-color-2;transition: background-color 1.5s ease;transition: color 1.5s ease;
+                                        color: $fun-color-1;font-weight: bold;font-family: 'zeichen_sansregular';font-size: 1.3rem;} button:hover, button:focus {color: $fun-color-2;}
+        } button:hover, button:focus {background-color: $fun-color-1;}
+    }
+}
+
+header span {
+    font-size: 5rem;}
+
+.header-wordmark, .nav-links {align-self: center;}
+ 
+
+#genre2-header-genre {
+    background-color: $fun-color-1;
+    color: $fun-color-2;
+    font-family: 'zeichenregular';
+    // padding: 1.5rem 1rem;
+    // margin-right: -1rem;
+}
+
+#genre2-header-2 {
+    background-color: $fun-color-2;
+    color: $fun-color-1;
+    padding: 2rem 10px 9px 18px;
+    font-family: 'zeichen_sansregular';
+}
+
+ 
