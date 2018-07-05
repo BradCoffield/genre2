@@ -1,7 +1,12 @@
+<!-- Default layout is for distinct pages like submit or masthead -->
+
 {%include head.html%}
 <body>
  {%include header.html%}
 
+<h2 class="thick-bar">
+  {{page.title_abbrev}}
+</h2>
 {{content}}
   <!-- {%include footer.html%}   -->
 

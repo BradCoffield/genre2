@@ -1,5 +1,6 @@
---- 
---- 
+---
+---
+
 // @import '../_sass/typi/scss/_typi.scss';
 @import 'partials/variables';
 @import "partials/typography";
@@ -49,7 +50,7 @@ button {border:0px;}
 }
 
 .cover-image-wrap {
-    position: relative;
+    position: relative; img{border: 1px solid $tealish;}
 }
 
 .cover-image-text {

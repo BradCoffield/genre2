@@ -2,7 +2,6 @@
 .site-header {
     // background: $fun-color-3;
     background: $fun-color-1;
-    // position: -webkit-sticky;
     // position: sticky;
     top: 0;
     left: 0;
@@ -35,9 +34,9 @@
             
             
              
-                        button{           padding:.2rem;background-color: $fun-color-2;transition: background-color 1.5s ease;transition: color 1.5s ease;
+                        button{           padding:.2rem;background-color: $fun-color-2;transition: background-color 2s ease;transition: color 2s ease;
                                         color: $fun-color-1;font-weight: bold;font-family: 'zeichen_sansregular';font-size: 1.3rem;} button:hover, button:focus {color: $fun-color-2;}
-        } button:hover, button:focus {background-color: $fun-color-1;}
+        } button:hover, button:focus {background-color: $fun-color-1;cursor: pointer;}
     }
 }
 
