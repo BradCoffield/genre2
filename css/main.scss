@@ -4,7 +4,6 @@
 // @import '../_sass/typi/scss/_typi.scss';
 @import 'partials/variables';
 @import "partials/typography";
-
 @import "partials/base";
 @import "partials/header2";
 @import 'partials/layout';
@@ -61,7 +60,7 @@ button {border:0px;}
     font-size: 7rem; // color: green;
     font-family: $font-display-block; // color: rgba(255,255,255)
 }
-
+ 
 footer {
     background: $fun-colors-mixed-light;
 }
