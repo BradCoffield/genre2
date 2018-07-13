@@ -1,15 +1,25 @@
 ---
 ---
-
 // @import '../_sass/typi/scss/_typi.scss';
+@import 'partials/foundation-grid';
 @import 'partials/variables';
 @import "partials/typography";
 @import "partials/base";
 @import "partials/header2";
 @import 'partials/layout';
-@import 'partials/posts';
+@import 'partials/posts'; 
+@import 'partials/footer';
+@import 'partials/social-buttons';
 
 
+.center-xs {
+	text-align: left;
+}
+
+
+.lets-read-it {
+    font-size: 1.3rem;
+}
 
 .flex-me-baby {
     display: flex;
@@ -56,14 +66,12 @@ button {border:0px;}
     position: absolute;
     top: 0px;
     left: 175px;
-    width: 100%; // text-align: center;
+    // width: 100%; // text-align: center;
     font-size: 7rem; // color: green;
     font-family: $font-display-block; // color: rgba(255,255,255)
 }
  
-footer {
-    background: $fun-colors-mixed-light;
-}
+
 
 .content-wrap {
     // color:$fun-colors-mixed-light;   
