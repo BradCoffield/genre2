@@ -7,11 +7,18 @@ issue: 1
 title: Two Poems
 categories: issue1
 layout: creative-post
+private_email: Amanda.balter@gmail.com
+bio: Amanda Balter is a recent graduate from Rocky Mountain College in Billings, Montana where she majored in Philosophy & Religious Studies. Outside of her schooling, she is an active member at her church and volunteers regularly. She enjoys reading and writing poetry as well as painting with her younger brother, searching for the best hot chocolate, and cross country skiing in Montana's backyard. In the future, she hopes to pursue graduate study in the liberal arts.
+interview_1: Academic writing. I feel the safest within the bounds of a thesis statement.
+interview_2: The need to express something rather than argue a point, as I would in a piece of academic writing. 
+interview_3: I was surprised to find that the craft of poetry is equally, if not more, particular than academic writing. While there is undoubtedly freedom within the genre, the art of perfecting a line, choosing the word with the best sound, mastering the overall rhythm, etc. was both challenging and satisfying. I found the more I worked with poetry, the more my academic writing excelled. Poetry teaches the importance of the details—something I’m not sure I could have learned without exploring this genre. 
 ---
-
-<!-- <h2> {{page.title}} </h2>
-{{page.genre}} by {{page.usual_genre_grammared}}, {{page.author_name}} -->
-<div class="piece-wrapper">
+ 
+ 
+<div class="grid-container">
+           
+        <div class="grid-x">
+                <div class="cell small-12 large-8">
     
     <h3 class="piece-title">
         SADNESS IS LIKE SICKNESS, IT GETS WORSE AT NIGHT
@@ -57,17 +64,20 @@ layout: creative-post
     no, they grow at night<br><br>
     with the moon<br>
     before the sun wakes.<br><br>
+    {%include sharing-buttons.html%}
+ 
+    {{page.bio}}
 </div>
 
-<div class="piece-sidebar">
-    <p class="author-bio">Amanda Balter is an academic writer from Billings, MT. Who better do an acceptable job with painting our walls or she's going to get zinsser binned and forced to get cherry cokes everyday for a year.</p>
-    <h3>The genre2 interview</h3>
-    <p class="interview-question">What is your preferred genre and why? </p>
-    <p class="interview-answer">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed aut vel obcaecati quos unde, temporibus corporis culpa mollitia iusto quo ratione, natus voluptatibus saepe laborum consequatur ipsa non at dicta!</p>
-    <p class="interview-question">Why did this piece compel you to move to this alternative genre?
-    </p>
-    <p class="interview-answer">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas tempore corrupti earum, repellendus magni nihil? Veniam, odit, recusandae harum, natus soluta minima eum enim quam non tenetur saepe vel?</p>
-    <p class="interview-question">What challenges or surprises did you encounter while working in this genre?</p>
-    <p class="interview-answer">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius, maiores voluptatibus. Velit officiis molestiae at officia est blanditiis fugiat numquam iure eligendi animi! Ducimus maxime est explicabo possimus magni id.</p>
+<div class="cell medium-12 large-4">
+    <!-- <div class="initials-in-a-circle">AB</div>  -->
+  
+   {%include piece-sidebar.html%}
+    
+    </div>
+</div>
+
+
 
 </div>
+

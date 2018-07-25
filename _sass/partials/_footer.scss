@@ -1,16 +1,18 @@
-footer {
-    background: $fun-color-1;
-    display: flex;
-    padding: .2rem;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-   p{  
-    letter-spacing: .1rem;
-font-size: 1.4rem;  
-text-align: center;
-}
-}
+// footer {
+//     background: $fun-color-1;
+//     display: flex;
+//     padding: .2rem;
+//     flex-wrap: wrap;
+//     justify-content: space-evenly;
+//     align-items: center;
+//    p{  
+//     letter-spacing: .1rem;
+// font-size: 1.4rem;  
+// text-align: center;
+// }
+// }
+
+footer {text-align: center; background: $fun-color-1;margin-top: 2rem;}
 
 .fa-heart {color: $fun-color-2};
 .fa-twitter, .fa-envelope {color: $fun-colors-mixed-light;}

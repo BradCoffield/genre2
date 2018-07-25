@@ -25,6 +25,14 @@ p {
   font-family: $font-lora;
 }
 
+.text-inverted-2{background: $fun-color-1;color: $fun-color-2;padding: 1rem;font-family: $font-display-block;display: inline;font-size: 1.52rem;}
+.text-inverted-1{background: $fun-color-2;color: $fun-color-1;padding: 1rem;font-family: $font-display-block;display: inline;font-size: 1.52rem;}
+
+.fancy-text { font-family: $font-display-slick;}
+.font-big-2 {font-size: 1.75rem;}
+.little-bigger {font-size: 1.2rem;}
+.margin-b-5p{margin-bottom: 5px;}
+.margin-t-5p{margin-top: 5px;}
 // .first-character {
 //   color: #903;
 //   float: left;

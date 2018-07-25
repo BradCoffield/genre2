@@ -1,3 +1,12 @@
+.sharing-buttons-box{
+  // background: rgba($fun-colors-mixed-light,.2);
+  padding: 1rem;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
   display: inline-block
@@ -18,8 +27,8 @@
 }
 
 .resp-sharing-button__icon svg {
-  width: 1em;
-  height: 1em;
+  width: .8em;
+  height: .8em;
   margin-right: 0.4em;
   vertical-align: top
 }

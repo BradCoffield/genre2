@@ -3,13 +3,16 @@ $body-color: #515151;
 $link-color: #111;
 $link-border-bottom: 1px solid #487360;
 
-$heading-spacing: 0.5rem ;
-$section-spacing: 2rem ;
-$sidebar-width: 18rem ;
 
-$large-breakpoint: 49rem ;
-$large-font-size: 1.25rem ;
-$sidebar-sticky: true ;
+$background-1: url(/img/backgrounds/circles-light.png);
+$background-2: url(/img/backgrounds/concrete-texture.png);
+$background-3: url(/img/backgrounds/funky-lines.png);
+$background-4: url(/img/backgrounds/light-grey-terrazzo.png);
+$background-5: url(/img/backgrounds/stonehaven.png);
+$background-6: url(/img/backgrounds/stripes-light.png);
+
+$body-background:  url(/img/backgrounds/circles-light.png);
+body {background-image: $background-2;}
 
 $font-display-slick: 'zeichenregular';
 $font-display-block: 'zeichen_sansregular';
@@ -31,7 +34,7 @@ $tealish-light:#e0f1e3;
 // $fun-color-1:#e7717d;
 // $fun-color-1:#fd6421;
 // $fun-color-1:#cc914f;
-$fun-color-1:$red;
+$fun-color-1:$tangerine;
 
 // $fun-color-2:#14a76c;
 // $fun-color-2:#176f93;
