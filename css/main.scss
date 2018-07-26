@@ -6,7 +6,7 @@
 @import "partials/typography";
 @import "partials/base";
 
-@import "partials/homepage-v3";
+@import "partials/homepage-v4";
 @import "partials/header2";
 @import 'partials/layout';
 @import 'partials/posts'; 
@@ -14,29 +14,12 @@
 @import 'partials/social-buttons';
 
 // .no-pad {padding: 0px;}
-.vert {align-items: center;}
-.text-center{text-align: center;}
-.mr1 {margin-right:1rem;}
-.mr2 {margin-left:1rem;}
+
 // .mast-names{justify-content: space-around;}
 // .gimme {width:70rem;}
 
 .center-xs {
 	text-align: left;
-}
-.text-right {text-align: right;}
-.interview-question {
-    font-weight: bold;
-    font-style: italic;
-}
-
-.post-paragraph{
-    text-indent: 2rem;
-    margin: 0px;
-    padding: 0px;
-}
-.post-whitespace {
-    padding-top: 1rem;
 }
 
 // .initials-in-a-circle {
@@ -48,19 +31,6 @@
 //     padding: 15px;
 // }
 
- 
-
-.lets-read-it {
-    font-size: 1.3rem;
-}
-.lets-read-it-2 {
-    font-size: 1.2rem;
-    background: rgba($fun-colors-mixed-light,.1);
-    border-radius: 5px;
-}
-.piece-title {
-    font-family: $font-display-block;
-}
 
 
 .flex-me-baby {
@@ -69,7 +39,13 @@
 
 button {border:0px;}
 
-.masthead-name{font-weight: normal;font-size: 1.3rem;}
+.masthead-name{font-weight: normal;font-size: 1.3rem;width: 100%;}
+
+.yinz {
+    background: rgba(172,139,103,0.0);
+
+padding: 2rem;
+}
 
 
  

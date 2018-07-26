@@ -2,16 +2,40 @@
 <body class="site">
  {%include header.html%}
  
- <div class="bar-with-author thick-bar">{{page.genre}} by the {{page.usual_genre_grammared}} {{page.author_name}}  </div>
+ <div class="thick-bar">{{page.genre}} <span class="slightly-smaller">by the</span> {{page.usual_genre_grammared}} {{page.author_name}}  </div>
 
 
-<div class="page-content">
+<div class="page-content creative-post"><div class="scroll-line"></div>
   {{content}}
 </div>
-{%include sharing-buttons.html%}
+ 
   
    {%include footer.html%}   
 
- 
+   <script>
+    const scrollLine = document.querySelector('.scroll-line');
+    function fillScrollLine() {
+      const windowHeight    = window.innerHeight;
+      const fullHeight      = document.body.clientHeight;
+      const scrolled        = window.scrollY;
+      const percentScrolled = (scrolled / (fullHeight - windowHeight)) * 100;
+      scrollLine.style.width = `${percentScrolled}%`;
+    }
+    window.addEventListener('scroll', debounce(fillScrollLine));
+    function debounce(func, wait = 15, immediate) {
+      var timeout;
+      return function() {
+        var context = this, args = arguments;
+        var later = function() {
+          timeout = null;
+          if (!immediate) func.apply(context, args);
+        };
+        var callNow = immediate && !timeout;
+        clearTimeout(timeout);
+        timeout = setTimeout(later, wait);
+        if (callNow) func.apply(context, args);
+      };
+    }
+  </script>
 </body>
 </html>

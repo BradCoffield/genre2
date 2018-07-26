@@ -10,9 +10,11 @@ $background-3: url(/img/backgrounds/funky-lines.png);
 $background-4: url(/img/backgrounds/light-grey-terrazzo.png);
 $background-5: url(/img/backgrounds/stonehaven.png);
 $background-6: url(/img/backgrounds/stripes-light.png);
+$background-7: url(/img/birds/birds_001.png);
+$background-8: url(/img/backgrounds/photo-1528465242296-e6860f1c21b6.jpeg);
 
 $body-background:  url(/img/backgrounds/circles-light.png);
-body {background-image: $background-2;}
+body {background:$background-2;}
 
 $font-display-slick: 'zeichenregular';
 $font-display-block: 'zeichen_sansregular';
@@ -35,6 +37,7 @@ $tealish-light:#e0f1e3;
 // $fun-color-1:#fd6421;
 // $fun-color-1:#cc914f;
 $fun-color-1:$tangerine;
+$fun-color-1-dirty:#bc6644;
 
 // $fun-color-2:#14a76c;
 // $fun-color-2:#176f93;
@@ -42,6 +45,8 @@ $fun-color-2:$tealish;
 
 $fun-color-3:$bluegrass;
 
-$fun-colors-mixed-light: mix($fun-color-1,$fun-color-2,50%);
+$fun-colors-mixed-light: mix($fun-color-1,$fun-color-2,62%);
+$fun-colors-mixed-lighter: mix($fun-color-1,$fun-color-2,50%);
+
 
 $selection-color: $wasabi;
