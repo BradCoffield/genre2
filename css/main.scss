@@ -5,13 +5,15 @@
 @import 'partials/variables';
 @import "partials/typography";
 @import "partials/base";
+@import "partials/media-queries";
 // @import "partials/index-centered.scss";
-@import "partials/homepage-v4";
+@import "partials/homepage-v5";
 @import "partials/header2";
 @import 'partials/layout';
 @import 'partials/posts'; 
 @import 'partials/footer';
 @import 'partials/social-buttons';
+@import 'partials/countdown-timer';
 
 // .no-pad {padding: 0px;}
 
