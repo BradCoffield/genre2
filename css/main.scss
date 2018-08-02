@@ -44,9 +44,15 @@ button {border:0px;}
 .yinz {
     background: rgba(172,139,103,0.0);
 
-padding: 2rem;
+// padding: 1rem 0rem;
 }
 
+#current-issue-section{
+    border-left: solid 5px rgba(172,139,103,.5);
+    border-bottom: solid 5px rgba(172,139,103,.5);
+    padding: 1rem;
+border-radius: 3px;    margin-right: 3rem;
+}
 
  
 
