@@ -1,4 +1,50 @@
+@font-face {
+  font-family: 'zeichenregular';
+  src: url('/css/fonts/zeichen-webfont.woff2') format('woff2'),
+       url('/css/fonts/zeichen-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
+}
+
+@font-face {
+  font-family: 'zeichen_sansregular';
+  src: url('/css/fonts/zeichen_sans-webfont.woff2') format('woff2'),
+       url('/css/fonts/zeichen_sans-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+*::selection {
+  background: $selection-color; 
+}
+
+
+p {
+  font-family: $font-lora;
+}
+
+.text-inverted-2{background: $fun-color-1;color: $fun-color-2;padding: 1rem;font-family: $font-display-block;display: inline;font-size: 1.52rem;}
+.text-inverted-1{background: $fun-color-2;color: $fun-color-1;padding: 1rem;font-family: $font-display-block;display: inline;font-size: 1.52rem;}
+
+.fancy-text { font-family: $font-display-slick;}
+.font-big-2 {font-size: 1.75rem;}
+.little-bigger {font-size: 1.2rem;}
+.margin-b-5p{margin-bottom: 5px;}
+.margin-t-5p{margin-top: 5px;}
+// .first-character {
+//   color: #903;
+//   float: left;
+//   font-family: Georgia;
+//   font-size: 2.3rem;
+//   line-height: 60px;
+//   padding-top: 4px;
+//   padding-right: 8px;
+//   padding-left: 3px;
+//   background: green;
+// }
+/* 
 $breakpoints: (
     small: 600px,
     large: 1200px
@@ -35,4 +81,4 @@ $breakpoints: (
     @include typi('h3');
   }
   
-  @include typi-init;
+  @include typi-init; */

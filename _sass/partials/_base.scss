@@ -42,4 +42,16 @@ main, article, section { display: block; }
                   // height in HTML
   }
   
-   
+.italics {font-style: italic;}
+.center {text-align: center;}
+.inline{display: inline;}
+html{font-size: 16px;}
+.vert {align-items: center;}
+.text-center{text-align: center;}
+.text-right {text-align: right;}
+.mr1 {margin-right:1rem;}
+.mr2 {margin-left:1rem;}
+.slightly-smaller {font-size: 1.3rem;}
+.mb0{margin-bottom: 0px;}
+.fs13r{font-size: 1.3rem;}
+.fs11r{font-size: 1.1rem;}

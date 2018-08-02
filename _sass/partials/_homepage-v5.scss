@@ -1,0 +1,70 @@
+ 
+// .font-fancy{font-family: $font-display-slick;font-size: 1.7rem;background: $fun-color-1-dirty;color: $fun-color-2;padding:.5rem;border-radius: 5px;}
+#the-clock {max-width: 308px;   }
+.flip-clock {max-width: 308px;}
+.some-fancy-shit {
+    font-family: $font-lora;
+    // font-weight: bold;
+    font-size: 1.3rem;
+    align-self: center;
+    background: rgba($fun-colors-mixed-light, $alpha: .1);
+    border-radius: 5px;
+    padding: .7rem;
+}
+
+#tagline {
+    // background: rgba($fun-colors-mixed-light, $alpha: .5)
+    border-bottom: 1px solid darkgray;
+}
+#issue-1-contents {
+    ul {
+        list-style-type: none;
+    }
+    .homepage-content-author {
+        font-size: 1.3rem;
+        font-family: $font-display-block;
+    }
+    .homepage-content-genre {
+        font-family: $font-display-slick;
+        font-size: 1.3rem;
+    }
+}
+
+.homepage-subsection {
+    margin-bottom: 2.5rem;
+    h3 {
+        font-family: $font-display-block;
+        font-size: 1.2rem;
+        // background: $fun-colors-mixed-light;
+        // padding: 5px;
+        small {
+            font-family: $font-lora;
+            font-size: 1.3rem;
+        }
+    }
+}
+#mission-homepage-section{text-align: center;}
+.homepage-subsection-little-text { font-family: $font-lora;
+    font-weight: normal;
+
+}
+.homepage-subsection-littler-text {font-family: $font-lora;font-size:1.1rem;font-weight: normal;}
+
+.current-issue {
+    font-family: $font-display-slick;
+    font-size: 4rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#homepage-page-content-announcement{ display: flex;justify-content: center;align-items: center;}
+.homepage-interview-question {font-family: $font-lora;font-size: 1rem;padding-left: 1rem;margin-bottom: 5px;}
+.homepage-interview-answer {padding-left: 1rem;margin-top: 5px;}
+
+.colorful-heading {
+    background-color: $fun-color-2;
+    padding: 1rem;
+    // color: $fun-color-1;
+    font-family: $font-display-block;
+    
+}

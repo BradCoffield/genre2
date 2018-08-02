@@ -14,9 +14,9 @@ sass:
     sass_dir: _sass
     style: compressed
 
-permalink: :categories/:title.html
+permalink: /:title.html
 collections:
-  issue-1:   
+  issue1:   
     output: true
 
 # Exclude from processing.
