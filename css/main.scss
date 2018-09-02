@@ -33,7 +33,17 @@
 //     padding: 15px;
 // }
 
-
+.margin-top-neg {
+    margin-top:-3rem;
+    display: block;
+    margin-bottom: 3rem;
+   text-decoration: underline;
+   text-decoration-color: $fun-color-2;
+}
+.float-l{float: left;}
+.float-r{float: right;}
+ 
+ 
 
 .flex-me-baby {
     display: flex;
