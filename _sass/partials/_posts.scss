@@ -16,6 +16,12 @@
 .interview-question {
     font-weight: bold;
     font-style: italic;
+    margin-bottom: 3px;
+}
+.interview-answer {
+    margin-top: 0px;
+    margin-bottom: 1.5rem;
+    line-height: 1.5rem;
 }
 
 .post-paragraph {
@@ -44,7 +50,7 @@
 .piece-title {
     font-family: $font-display-block;
 }
-.person-bio-box {padding: 2rem;border: 1px solid darkgray;margin: 3rem 1rem 0px 1rem;}
+.person-bio-box {padding: 2rem;border: 1px solid darkgray;margin: 5rem 1rem 0px 1rem;font-size: 1.13rem}
 .sidebar-wrap{border-left: 1px solid $fun-color-2;padding-left: 1rem;padding-bottom: 1px;}
 .scroll-line  {
     position: fixed;
