@@ -19,7 +19,9 @@
 *::selection {
   background: $selection-color; 
 }
-
+p::selection {
+  background: $selection-color;
+}
 
 p {
   font-family: $font-lora;
