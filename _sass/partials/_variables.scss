@@ -18,7 +18,19 @@ body {background:$background-2;}
 
 $font-display-slick: 'zeichenregular';
 $font-display-block: 'zeichen_sansregular';
-$font-lora: 'Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+$font-lora: 'Noto Serif KR','Lora',Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+
+// 
+
+/* font-family: 'Noto Serif KR', sans-serif;
+
+font-family: 'Noto Serif JP', sans-serif;
+
+font-family: 'Libre Baskerville', serif;
+
+font-family: 'Noto Serif', serif;
+
+ */
 
 $tangerine: #d56235;
 $tarragon: #7c812d;
