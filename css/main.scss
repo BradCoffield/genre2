@@ -46,9 +46,19 @@ width: 400px;
 
 .read-more-block .flex-me-baby {
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-bottom: 2rem;
     margin-top: 4rem;
+}
+// .read-more-block img:hover {
+    
+// }
+
+#sheila-recipe {
+    font-size:1.1rem; 
+    ul {
+        list-style-type: none;
+    }
 }
 
 .read-more-text {
