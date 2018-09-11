@@ -20,6 +20,16 @@
 
 // .mast-names{justify-content: space-around;}
 // .gimme {width:70rem;}
+ 
+.no-interview{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+
+    img{width: 64px;}
+}
 
 
 .read-more-block .flex-me-baby a{
@@ -35,7 +45,7 @@
     display: flex;
     justify-content: center; div img {display: inline-block;}
      
-    img {margin: 16px 0px;width: 24px;}
+    img {margin: 16px 0px;width: 16px;}
 }
 
 #homepage-cover-1 {
