@@ -20,6 +20,30 @@
 
 // .mast-names{justify-content: space-around;}
 // .gimme {width:70rem;}
+ #issue-1-contents a:hover,#issue-1-contents a:focus {
+     text-shadow: 1px 1px 0px $fun-color-2;
+ }
+
+.t-shadow {
+    text-shadow: 0 0 10px $fun-color-2;
+}
+
+.glow {
+    -webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+}
+
+@-webkit-keyframes glow {
+    from { text-shadow: 0 0 5px $fun-color-2; }
+    to { text-shadow: 0 0 20px $fun-color-2; }
+}
  
 .no-interview{
     display: flex;
