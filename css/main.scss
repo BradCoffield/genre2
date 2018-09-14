@@ -15,7 +15,8 @@
 @import 'partials/social-buttons';
 @import 'partials/countdown-timer';
  
-
+.script {font-family: $font-display-slick;font-size: 2.4rem;}
+.block {font-family: $font-display-block;font-size: 2.4rem;padding-left: 3px;}
 // .no-pad {padding: 0px;}
 
 // .mast-names{justify-content: space-around;}
@@ -145,6 +146,13 @@ padding: .1rem;
 
 .flex-me-baby {
     display: flex;
+}
+.vert-align {
+    align-items: center;
+    // text-align: center;
+}
+.self-vert-align {
+    align-self: center;
 }
 
 button {border:0px;}
