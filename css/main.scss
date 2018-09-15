@@ -14,29 +14,161 @@
 @import 'partials/footer';
 @import 'partials/social-buttons';
 @import 'partials/countdown-timer';
+ 
+.hi-rez {
+    font-size:14px;margin-top:-2.5rem;margin-bottom:1rem;padding:0px 10px;
+    img {
+    display:inline;height:16px;color:#777;margin-top:12px;
+}}
+.slideshowy  {
+    justify-content: center;
+    flex-wrap: wrap;
+    // text-align: center;
+}
 
+.script {font-family: $font-display-slick;font-size: 2.4rem;}
+.block {font-family: $font-display-block;font-size: 2.4rem;padding-left: 3px;}
 // .no-pad {padding: 0px;}
 
 // .mast-names{justify-content: space-around;}
 // .gimme {width:70rem;}
+ #issue-1-contents a:hover,#issue-1-contents a:focus {
+     text-shadow: 1px 1px 0px $fun-color-2;
+ }
+ 
+.about-ul li {margin:.5rem 0px;}
+.about-ul {list-style-type: square;}
+.spacer{display: block;margin:.71rem 0;}
+.padding-bottom-eh {padding-top: 1rem;padding-bottom: 1rem;}
+.t-shadow {
+    text-shadow: 1px 1px 3px lightgray;
+}
+
+.glow {
+    -webkit-animation-duration: 1s;
+    -webkit-animation-name: glow;
+    -webkit-animation-direction: alternate;
+    -webkit-animation-iteration-count: infinite;
+    animation-duration: 1s;
+    animation-name: glow;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+}
+
+@-webkit-keyframes glow {
+    from { text-shadow: 0 0 5px $fun-color-2; }
+    to { text-shadow: 0 0 20px $fun-color-2; }
+}
+ 
+.no-interview{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+
+    img{width: 64px;}
+}
+
+
+.read-more-block .flex-me-baby a{
+    display: flex;
+    align-items: center;
+}
 
 .center-xs {
 	text-align: left;
 }
 
-// .initials-in-a-circle {
-//     background: $fun-color-2;
-//     border-radius: 50%;
-//     display: inline;
-//     font-family: $font-display-block;
-//     font-size: 1.5rem;
-//     padding: 15px;
+.section-break{
+    display: flex;
+    justify-content: center; div img {display: inline-block;}
+     
+    img {margin: 16px 0px;width: 16px;}
+}
+
+#homepage-cover-1 {
+    box-shadow: 0px 0px 7px $fun-color-1;
+    // border: 1px solid $fun-color-1;
+     margin-bottom: 1rem;
+     max-width: 90%;
+     max-height: 445px;
+    
+}
+
+.gallery-image {
+    background: #eff4f6;
+padding: .5rem;
+margin: 0rem auto 2rem;
+width: 400px;
+}
+.gallery-image-2 {
+    background: #333;
+padding: .1rem;
+// margin: 1rem auto 2rem;
+// display: inline-block;
+// width: 400px;
+}
+
+ 
+
+
+.font-slick {
+    font-family: $font-display-slick;
+}
+
+.read-more-block .flex-me-baby {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+// .read-more-block img:hover {
+    
 // }
 
+#sheila-recipe {
+    font-size:1.1rem; 
+    ul {
+        list-style-type: none;
+    }
+}
 
+.read-more-text {
+    font-family: $font-display-block;
+    font-size: 1.7rem;
+    align-self: center;
+    line-height: 1.9rem;
+}
+.read-more-arrow {align-self: center;}
+
+.author-bio-name {
+    font-weight: bold;
+    // font-size: 1.1rem;
+}
+
+.margin-top-neg {
+    margin-top:-3rem;
+    display: block;
+    margin-bottom: 3rem;
+   text-decoration: underline;
+   text-decoration-color: $fun-color-2;
+}
+.float-l{float: left;}
+.float-r{float: right;}
+ 
+ 
 
 .flex-me-baby {
     display: flex;
+}
+.vert-align {
+    align-items: center;
+    // text-align: center;
+}
+.self-vert-align {
+    align-self: center;
 }
 
 button {border:0px;}
@@ -48,13 +180,7 @@ button {border:0px;}
 
 // padding: 1rem 0rem;
 }
-
-#current-issue-section{
-    border-left: solid 5px rgba(172,139,103,.5);
-    border-bottom: solid 5px rgba(172,139,103,.5);
-    padding: 1rem;
-border-radius: 3px;    margin-right: 3rem;
-}
+ 
 
  
 

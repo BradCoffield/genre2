@@ -1,3 +1,47 @@
-@media (min-width:631px){#the-clock{float: right;}}
-@media (max-width:630px){#the-clock{margin: 0px auto;}}
-@media (max-width:599px){.fs13r{font-size: 1rem;}.fs11r{font-size: .9rem;}.thick-bar{padding: 1.5rem}.some-fancy-shit{padding: 1.5rem;}}
+@media (min-width:631px) {
+    #the-clock {
+        float: right;
+    }
+    #homepage-cover-1 {float: right; margin-right:.5rem;}
+
+    
+}
+
+@media (max-width:630px) {
+  
+    #the-clock {
+        margin: 0px auto;
+    }
+    .lets-read-it-2 {
+        font-size: 1.05rem!important;
+    }
+    .person-bio-box {
+        font-size: .913rem!important;
+        margin: 3rem 0px 0px 0px!important;
+        padding: 1rem!important;
+    }
+}
+
+@media (max-width:599px) {
+    .fs13r {
+        font-size: 1rem;
+    }
+    .fs11r {
+        font-size: .9rem;
+    }
+    .thick-bar {
+        padding: 1.5rem
+    }
+    .some-fancy-shit {
+        padding: 1.5rem;
+    }
+    #homepage-cover-1 {
+        margin-right: 0px;
+        margin: 0 auto;
+        float:none;
+    }
+}
+
+@media (max-width:1010px) {
+    .lets-read-it {margin-top: 0px; font-size: 1.05rem!important;}
+}

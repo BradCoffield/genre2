@@ -20,9 +20,11 @@
 #issue-1-contents {
     ul {
         list-style-type: none;
+        padding-left: 1rem;
+        margin-top: 0px;
     }
     .homepage-content-author {
-        font-size: 1.3rem;
+        font-size: 1.4rem;
         font-family: $font-display-block;
     }
     .homepage-content-genre {
@@ -54,11 +56,13 @@
 .current-issue {
     font-family: $font-display-slick;
     font-size: 4rem;
-    margin-bottom: 0px;
+    margin-bottom: 1rem;
     margin-top: 0px;
 }
 
 #homepage-page-content-announcement{ display: flex;justify-content: center;align-items: center;}
+#homepage-page-content{margin-top: 2rem;
+    margin-bottom: 2rem;}
 .homepage-interview-question {font-family: $font-lora;font-size: 1rem;padding-left: 1rem;margin-bottom: 5px;}
 .homepage-interview-answer {padding-left: 1rem;margin-top: 5px;}
 
