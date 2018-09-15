@@ -16,10 +16,15 @@
 @import 'partials/countdown-timer';
  
 .hi-rez {
-    font-size:14px;margin-top:-2.5rem;margin-bottom:1rem;
+    font-size:14px;margin-top:-2.5rem;margin-bottom:1rem;padding:0px 10px;
     img {
     display:inline;height:16px;color:#777;margin-top:12px;
 }}
+.slideshowy  {
+    justify-content: center;
+    flex-wrap: wrap;
+    // text-align: center;
+}
 
 .script {font-family: $font-display-slick;font-size: 2.4rem;}
 .block {font-family: $font-display-block;font-size: 2.4rem;padding-left: 3px;}
