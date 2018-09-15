@@ -24,10 +24,13 @@
  #issue-1-contents a:hover,#issue-1-contents a:focus {
      text-shadow: 1px 1px 0px $fun-color-2;
  }
-.spacer{display: block;margin:1rem 0;}
-.padding-bottom-eh {padding-bottom: 2rem;}
+ 
+.about-ul li {margin:.5rem 0px;}
+.about-ul {list-style-type: square;}
+.spacer{display: block;margin:.71rem 0;}
+.padding-bottom-eh {padding-top: 1rem;padding-bottom: 1rem;}
 .t-shadow {
-    text-shadow: 1px 1px 1px lightgray;
+    text-shadow: 1px 1px 3px lightgray;
 }
 
 .glow {
@@ -80,6 +83,7 @@
      margin-bottom: 1rem;
      max-width: 90%;
      max-height: 445px;
+    
 }
 
 .gallery-image {
