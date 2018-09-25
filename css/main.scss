@@ -14,7 +14,16 @@
 @import 'partials/footer';
 @import 'partials/social-buttons';
 @import 'partials/countdown-timer';
- 
+
+//some bullshit because internet explorer was and is bullshit
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+    /* IE10+ CSS styles go here */
+    .site {display: block!important;}
+    #genre2-header-genre {font-size: 6rem!important;}
+    }
+    
+
+
 .hi-rez {
     font-size:14px;margin-top:-2.5rem;margin-bottom:1rem;padding:0px 10px;
     img {
