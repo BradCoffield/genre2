@@ -249,6 +249,16 @@ button {
 //         line-height: 2.2rem
 //     }
 // }
+.subannounce-issue2 {
+    border-image: linear-gradient(to right, #d56235, #ba892b, #99a74c, #79bd81, #69cdb8) 27/20px;
+    border-style: solid;
+    box-shadow: 2px 4px 3px lightgray; // background-image: linear-gradient(to right, #d56235, #ba892b, #99a74c, #79bd81, #69cdb8);   
+    background-color: rgba($color: #fff, $alpha: .3);
+    text-align: center;
+    p {
+        font-size: 20px;
+    }
+} 
 #pushcart-announcement {
  
     margin-bottom: 2.5rem;
