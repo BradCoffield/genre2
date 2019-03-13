@@ -353,3 +353,21 @@ button {
 .pushy {
     background-color:green;
 }
+#pushy-button {
+    height: 85px;
+
+padding: 1rem;
+
+display: block;
+
+margin: .5rem 0 0;
+
+font-size: 1rem;
+
+text-transform: uppercase;
+
+color: #69cdb8;
+
+// font-weight: bold;
+// font-family: $font-display-block;
+}
