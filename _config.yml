@@ -18,6 +18,8 @@ permalink: /:title.html
 collections:
   issue1:   
     output: true
+  issue2:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
